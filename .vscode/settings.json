@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/edbf96e2-99d2-4581-8214-db0ac2784bef/microsoft.web/sites/subscriptions/edbf96e2-99d2-4581-8214-db0ac2784bef/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/eRS-dev",
+    "appService.deploySubpath": "."
+}
