@@ -1,4 +1,4 @@
-const jiraService = require("../services/jira_service")
+const jiraService = require("../services/jira_service");
 const utils = require("../lib/utils");
 function controller() {}
 controller.prototype.fetchJiraProjectRecords = (req, res) => {
